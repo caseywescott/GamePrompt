@@ -1,5 +1,5 @@
 # GamePrompt
-A prompt generator that represents Game State as narrative prompts for LLM Image and Story generation. Creates both narrative prompts and image prompts customized for the style and parameters of Realms game.
+A prompt generator that represents Game State as narrative text for LLM image and story generation. Creates both narrative prompts and image prompts customized for the style and parameters of Realms game.
 
 # Example 
 
