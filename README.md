@@ -15,4 +15,8 @@ Double exposure, with fantasy landscape of castles and rivers and war. With a re
 
 <img width="479" alt="Screen Shot 2023-02-20 at 2 15 59 PM" src="https://user-images.githubusercontent.com/44890312/220206316-5627f95e-1774-42be-8872-c9f6ba9fae64.png" style="display: block; margin: 0 auto;">
 <img width="481" alt="Screen Shot 2023-02-20 at 2 17 08 PM" src="https://user-images.githubusercontent.com/44890312/220206337-dfed6f98-55e0-4779-9786-df6d26f8cc73.png" style="display: block; margin: 0 auto;">
-![CaseyW_Double_exposure_portrait_black_background_detailed_Our_s_aec2b698-4807-47ef-947f-85bce9c8aca4](https://user-images.githubusercontent.com/44890312/220208936-084e1e97-e6a0-413e-8122-3b170760ba1a.png)
+<img width="481" alt="Screen Shot 2023-02-20 at 2 45 21 PM" src="https://user-images.githubusercontent.com/44890312/220209061-edf943c7-4875-4816-af05-2e62efc8395a.png">
+<img width="480" alt="Screen Shot 2023-02-20 at 2 47 24 PM" src="https://user-images.githubusercontent.com/44890312/220209084-7e9f671f-2ade-4485-bae4-3e4b4e81aaa7.png">
+<img width="479" alt="Screen Shot 2023-02-20 at 2 47 01 PM" src="https://user-images.githubusercontent.com/44890312/220209123-11f5fcce-44d0-47ec-a305-b1c234eaf634.png">
+<img width="478" alt="Screen Shot 2023-02-20 at 2 47 17 PM" src="https://user-images.githubusercontent.com/44890312/220209102-74647a1d-4cde-4045-b926-a5a272aacc66.png">
+
